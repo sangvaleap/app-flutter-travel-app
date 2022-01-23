@@ -1,16 +1,18 @@
-# travel_app
+# Travel App - Flutter
 
-A new Flutter project.
+- Preview video: 
+- [My Twitter](https://twitter.com/sangvaleap)
 
-## Getting Started
+- [My Patreon](https://www.patreon.com/sangvaleap)
+- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
+- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 
-This project is a starting point for a Flutter application.
+- My Email: sangvaleap.vanny@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
+=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="601" alt="Screen Shot 2022-01-23 at 10 47 01 PM" src="https://user-images.githubusercontent.com/86506519/150686686-7387d3e5-4fd8-455d-97f9-1517262fbfc1.png">
+<img width="600" alt="Screen Shot 2022-01-23 at 10 47 28 PM" src="https://user-images.githubusercontent.com/86506519/150686697-2147d1cd-85e2-47b3-bea4-c4fb392b04f3.png">
+<img width="600" alt="Screen Shot 2022-01-23 at 10 47 55 PM" src="https://user-images.githubusercontent.com/86506519/150686705-088bb062-671f-4c97-bc21-f7c1fda5c8dd.png">
+<img width="600" alt="Screen Shot 2022-01-23 at 10 48 22 PM" src="https://user-images.githubusercontent.com/86506519/150686715-e2e464d6-e5bc-4f45-bd52-dba7c64ee96b.png">
+<img width="600" alt="Screen Shot 2022-01-23 at 10 48 40 PM" src="https://user-images.githubusercontent.com/86506519/150686718-441c92c8-566f-44c9-a475-f0b323646237.png">
