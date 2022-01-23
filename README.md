@@ -1,6 +1,6 @@
 # Travel App - Flutter
 
-- Preview video: 
+- Preview video: https://youtu.be/P4meRVGz1pw
 - [My Twitter](https://twitter.com/sangvaleap)
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
